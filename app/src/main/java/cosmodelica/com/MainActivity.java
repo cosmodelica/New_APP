@@ -14,6 +14,5 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
-    System.out.println("qwretqet");
-    System.out.println("qwretqet");
+
 }
